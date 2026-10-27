@@ -4,24 +4,11 @@
 
 Octavia Tuner is a native macOS application designed to make tuning instruments simple, intuitive, and visually satisfying. Featuring a clean dark interface, vibrant tuning indicators, and real-time pitch information, it helps you see exactly how sharp or flat a note is.
 
-<div style="position: relative; display: inline-block">
-      <img
-        src="octavia-promo.png"
-        alt="tuner screenshots"
-        style="display: block; max-width: 100%; height: auto"
-      />
-      <a
-        href="https://github.com/head-less-ghost/Octavia-Tuner/releases/latest/download/Octavia.Tuner.dmg"
-        aria-label="Go to page"
-        style="
-          position: absolute;
-          top: 82%; 
-          left: 6%;
-          width: 35%;
-          height: 9%;
-        "
-      ></a>
-    </div>
+
+<p align="center">
+  <img src="octavia-promo.png" alt="Octavia Tuner screenshots" width="780">
+</p>
+      
 ---
 
 ## ✨ Features
