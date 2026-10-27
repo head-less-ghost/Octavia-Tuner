@@ -6,7 +6,7 @@ Octavia Tuner is a native macOS application designed to make tuning instruments 
 
 
 <p align="center">
-  <img src="octavia-promo.png" alt="Octavia Tuner screenshots" width="780">
+  <img src="octavia-screenshots.png" alt="Octavia Tuner screenshots" width="780">
 </p>
       
 ---
