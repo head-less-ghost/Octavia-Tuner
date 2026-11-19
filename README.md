@@ -56,10 +56,21 @@ Suggestions, bug reports, and contributions are welcome!
 
 If you have an idea to improve Octavia Tuner or encounter a bug, feel free to [open an issue](../../issues) or submit a pull request.
 
-## 📄 License
+## ❤️ Support My Work
 
-Octavia Tuner does not currently specify a license. A license may be added in the future to clarify how the project can be used, modified, and distributed.
+If you enjoy my open-source projects and would like to support my work, you can make a cryptocurrency donation. Every contribution is appreciated!
 
+### 💎 TON
+**Network:** TON
+
+`UQAXA1ITJ4Y-5sHeRCjs7KS9jKi-Y_bpcx0LEXnB3yRq-oSl`
+
+### ⟠ Ethereum (ETH) And 💵 USDT
+**Network:** Ethereum
+
+`0xb381dc93fb3a40836d40cc438c3bb67f1b08b1a5`
+
+### Thank you for supporting my projects! ❤️
 ---
 
 <p align="center">
